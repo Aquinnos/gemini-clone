@@ -15,7 +15,7 @@ Gemini Clone is a web application that uses Google Generative AI to provide vari
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/gemini-clone.git
+   git clone https://github.com/aquinnos/gemini-clone.git
    cd gemini-clone
    ```
 
