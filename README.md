@@ -52,6 +52,3 @@ Gemini Clone is a web application that uses Google Generative AI to provide vari
   - `index.css`: Contains the global CSS styles.
   - `main.jsx`: The entry point of the application.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
